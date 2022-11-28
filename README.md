@@ -3,10 +3,11 @@
 
 
 [ProgramacionEstructurada]:https://github.com/alvaroleon10/PythonProg/tree/master/Programaci%C3%B3n%20Estructurada
+[Boletin1]:https://github.com/alvaroleon10/PythonProg/blob/master/Boletines2/ProgramacionModular/Programaci%C3%B3nModular1.py
 
 ## BOLETINES:
 - **PROGRAMACIÓN ESTRUCTURADA**
   - [Ejercicios Programación Estructurada][ProgramacionEstructurada]
 
 - **PROGRAMACIÓN MODULAR**
-  - **Boletín 1**
+  - [**Boletín 1**][Boletin1]
