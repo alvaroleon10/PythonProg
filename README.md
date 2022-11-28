@@ -9,7 +9,7 @@
 
 ## BOLETINES:
 - **PROGRAMACIÓN ESTRUCTURADA**
-  - [Ejercicios Programación Estructurada][ProgramacionEstructurada]
+  - [**Ejercicios Programación Estructurada**][ProgramacionEstructurada]
 
 - **PROGRAMACIÓN MODULAR**
   - [**Boletín 1**][Boletin1Modular]
