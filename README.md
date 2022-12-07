@@ -2,17 +2,16 @@
 ![imagengithub](https://user-images.githubusercontent.com/115450050/202666915-b74f799d-deaf-443e-9822-c0e7d6b7d6e3.jpeg)
 
 
-[Boletin1]:https://github.com/alvaroleon10/BoletinesProg/blob/master/Boletin1.py
+[ProgramacionEstructurada]:https://github.com/alvaroleon10/PythonProg/tree/master/Programaci%C3%B3n%20Estructurada
+[Boletin1Modular]:https://github.com/alvaroleon10/PythonProg/blob/master/Boletines2/ProgramacionModular/Programaci%C3%B3nModular1.py
+[Boletin2Modular]:https://github.com/alvaroleon10/PythonProg/blob/master/Boletines2/ProgramacionModular/ProgramacionModular2.py
+[Boletin3Modular]:https://github.com/alvaroleon10/PythonProg/blob/master/Boletines2/ProgramacionModular/ProgramacionModular3.py
 
 ## BOLETINES:
 - **PROGRAMACIÓN ESTRUCTURADA**
-  - [**Boletin 1**][Boletin1]
-  - **Boletin 2**
-  - **Boletin 3**
-  - **Boletin 4**
-  - **Boletin 5**
-  - **Boletin 6**
-  - **Boletin 7**
+  - [**Ejercicios Programación Estructurada**][ProgramacionEstructurada]
 
 - **PROGRAMACIÓN MODULAR**
-  - **Boletín 1**
+  - [**Boletín 1**][Boletin1Modular]
+  - [**Boletín 2**][Boletin2Modular]
+  - [**Boletín 3**][Boletin3Modular]
