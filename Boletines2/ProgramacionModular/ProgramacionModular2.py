@@ -72,7 +72,7 @@ lista = [dia, mes, anyo]
 def getDayOfWeek(lista):
     fecha = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"]
     
-    a = (14-mes)/12
+    a = (14-mes)//12
     y = anyo-a
     m = mes + 12 * a - 2
     d = (dia + y + y/4 - y/100 + y/400 + (31*m)/12)%7

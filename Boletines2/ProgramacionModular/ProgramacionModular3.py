@@ -56,22 +56,21 @@ print(numberInString(parameter))
 
 
 
-
 # Ejercicio 5 
 
-parameter = "Anilina".upper()
+parameter = "Anilinas".upper()
 
 def palindrome (parameter):
     reverse = ""
     for x in parameter:
-        reverse+=x
+        reverse = x + reverse
     if reverse == parameter:
         return True 
     else:
         return False 
 print(palindrome(parameter))
 
-        
+     
 
 # Ejercicio 6
 
@@ -92,12 +91,17 @@ print(buscarPalabra(palabra, a_buscar))
 frase1 = "Mi nombre es Godofredo"
 frase2 = "Godofredo"
 frase3 = "Álvaro"
+nuevaFrase = ""
 
-def cambiarElementos (frase1, frase2, frase3):
+def cambiarElementos (frase1,frase2,frase3):
     if frase2 in frase1:
-        frase1[3] = frase3
-    return frase1
+        nuevaFrase = frase1[0:5]
+    return nuevaFrase 
 print(cambiarElementos(frase1, frase2, frase3))
+    
+        
+
+
 
 
 # Ejercicio 8 
@@ -115,7 +119,6 @@ def contarVocales (element):
     return times
 print(contarVocales(element)) 
 
-           
 
 # Ejercicio 9
 
@@ -134,19 +137,21 @@ def devolverCadena (element):
     return nuevoElemento 
 print(devolverCadena(element))
             
-'''
+
 
 # Ejercicio 10
 
-frase = "España ganará el mundial"
-
+frase = "España ganará el mundial "
 def contarPalabras (frase):
-    contador = 0
-    for x in frase:
-        if frase(x) in frase:
-            contador +=1 
-    return contador 
+    palabras = 0
+    for x in (frase):
+        if x == " ":
+            palabras+=1
+    return palabras
 print(contarPalabras(frase))
+    
+'''    
+    
     
 
 
